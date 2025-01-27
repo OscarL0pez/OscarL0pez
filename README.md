@@ -114,7 +114,7 @@ He descubierto que lo que realmente me define es mi capacidad para aprender, ada
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/oscarl0pez" target="_blank">
+<a href="https://www.linkedin.com/in/oscarl0pez/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  OscarL0pez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
